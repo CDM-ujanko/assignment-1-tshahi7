@@ -1,0 +1,15 @@
+#header
+    {
+    background: #F08080;
+    }
+div {
+    background: #FFA07A;
+}
+
+.two {
+    background: #FA8072;
+}
+
+div#myId.two  {
+    background: #008080;
+}
